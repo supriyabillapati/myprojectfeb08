@@ -1,0 +1,4 @@
+num=10
+for number in num:
+print number 
+
